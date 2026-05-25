@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ff_mock_001",
+    "account_id": "tiger",
+    "type": "deposit",
+    "currency": "HKD",
+    "amount": 480000.0,
+    "rate_at_time": 0.88,
+    "date": "2021-03-15",
+    "notes": "初始入金"
+  },
+  {
+    "id": "ff_mock_002",
+    "account_id": "tiger",
+    "type": "deposit",
+    "currency": "USD",
+    "amount": 15000.0,
+    "rate_at_time": 6.85,
+    "date": "2022-06-20",
+    "notes": "追加入金"
+  },
+  {
+    "id": "ff_mock_003",
+    "account_id": "tiger",
+    "type": "withdraw",
+    "currency": "HKD",
+    "amount": 8000.0,
+    "rate_at_time": 0.89,
+    "date": "2023-12-01",
+    "notes": ""
+  }
+]

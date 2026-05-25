@@ -1,0 +1,14 @@
+[
+  {
+    "currency": "USD",
+    "rate_to_cny": 6.8161,
+    "date": "2026-04-16",
+    "source": "yfinance"
+  },
+  {
+    "currency": "HKD",
+    "rate_to_cny": 0.8701,
+    "date": "2026-04-16",
+    "source": "yfinance"
+  }
+]

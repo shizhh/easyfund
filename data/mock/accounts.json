@@ -1,0 +1,345 @@
+[
+  {
+    "id": "icbc",
+    "name": "工商银行",
+    "category": "cash",
+    "institution": "中国工商银行",
+    "balances": [
+      {
+        "currency": "CNY",
+        "amount": 380000.0,
+        "annual_rate": 0.012
+      }
+    ],
+    "notes": "",
+    "sub_accounts": [],
+    "annual_rate": 0.0,
+    "exclude_from_total": false,
+    "ins_premium": 0.0,
+    "ins_total_periods": 0,
+    "ins_paid_periods": 0,
+    "ins_start_year": 0,
+    "ins_rate": 0.0,
+    "ins_annual_payout": 0.0,
+    "ins_payout_schedule": [],
+    "ins_start_date": "",
+    "ins_birth_date": "",
+    "ins_end_date": "",
+    "sort_order": 0
+  },
+  {
+    "id": "abc",
+    "name": "农业银行",
+    "category": "cash",
+    "institution": "中国农业银行",
+    "balances": [
+      {
+        "currency": "CNY",
+        "amount": 256000.0,
+        "annual_rate": 0.014
+      }
+    ],
+    "notes": "",
+    "sub_accounts": [],
+    "annual_rate": 0.014,
+    "exclude_from_total": false,
+    "sort_order": 1
+  },
+  {
+    "id": "boc",
+    "name": "中国银行",
+    "category": "cash",
+    "institution": "中国银行",
+    "balances": [
+      {
+        "currency": "CNY",
+        "amount": 18500.0,
+        "annual_rate": 0.001
+      },
+      {
+        "currency": "USD",
+        "amount": 8500.0,
+        "annual_rate": 0.001
+      },
+      {
+        "currency": "HKD",
+        "amount": 32000.0,
+        "annual_rate": 0.001
+      }
+    ],
+    "notes": "",
+    "sub_accounts": [],
+    "annual_rate": 0.0,
+    "exclude_from_total": false,
+    "sort_order": 6
+  },
+  {
+    "id": "ccb",
+    "name": "建设银行",
+    "category": "cash",
+    "institution": "中国建设银行",
+    "balances": [
+      {
+        "currency": "CNY",
+        "amount": 98000.0,
+        "annual_rate": 0.014
+      }
+    ],
+    "notes": "",
+    "sub_accounts": [],
+    "annual_rate": 0.014,
+    "sort_order": 2
+  },
+  {
+    "id": "alipay",
+    "name": "支付宝",
+    "category": "cash",
+    "institution": "",
+    "balances": [
+      {
+        "currency": "CNY",
+        "amount": 220000.0,
+        "annual_rate": 0.015
+      }
+    ],
+    "sub_accounts": [],
+    "sort_order": 3
+  },
+  {
+    "id": "wechat",
+    "name": "微信零钱通",
+    "category": "cash",
+    "institution": "",
+    "balances": [
+      {
+        "currency": "CNY",
+        "amount": 5600.0,
+        "annual_rate": 0.011
+      }
+    ],
+    "sub_accounts": [],
+    "sort_order": 4
+  },
+  {
+    "id": "psbc",
+    "name": "邮储银行",
+    "category": "cash",
+    "institution": "",
+    "balances": [
+      {
+        "currency": "CNY",
+        "amount": 150000.0,
+        "annual_rate": 0.0135
+      }
+    ],
+    "notes": "",
+    "sub_accounts": [],
+    "annual_rate": 0.0,
+    "exclude_from_total": false,
+    "ins_premium": 0.0,
+    "ins_total_periods": 0,
+    "ins_paid_periods": 0,
+    "ins_start_year": 0,
+    "ins_rate": 0.0,
+    "ins_annual_payout": 0.0,
+    "ins_payout_schedule": [],
+    "ins_start_date": "",
+    "ins_birth_date": "",
+    "ins_end_date": "",
+    "sort_order": 5
+  },
+  {
+    "id": "tiger",
+    "name": "老虎证券",
+    "category": "investment",
+    "institution": "",
+    "balances": [
+      {
+        "currency": "CNY",
+        "amount": 356000.0,
+        "annual_rate": 0.0
+      }
+    ],
+    "notes": "",
+    "annual_rate": 0.0,
+    "sub_accounts": [],
+    "exclude_from_total": false,
+    "ins_premium": 0.0,
+    "ins_total_periods": 0,
+    "ins_paid_periods": 0,
+    "ins_start_year": 0,
+    "ins_rate": 0.0,
+    "ins_annual_payout": 0.0,
+    "ins_payout_schedule": [],
+    "ins_start_date": "",
+    "ins_birth_date": "",
+    "ins_end_date": ""
+  },
+  {
+    "id": "aapl_stock",
+    "name": "苹果股票",
+    "category": "investment",
+    "institution": "",
+    "balances": [],
+    "notes": "",
+    "annual_rate": 0.0,
+    "sub_accounts": [],
+    "exclude_from_total": false,
+    "ins_premium": 0.0,
+    "ins_total_periods": 0,
+    "ins_paid_periods": 0,
+    "ins_start_year": 0,
+    "ins_rate": 0.0,
+    "ins_annual_payout": 0.0,
+    "ins_payout_schedule": [],
+    "ins_start_date": "",
+    "ins_birth_date": "",
+    "ins_end_date": ""
+  },
+  {
+    "id": "pingan_insurance",
+    "name": "平安福满分终身寿险10年交保终身",
+    "category": "insurance",
+    "institution": "",
+    "balances": [],
+    "notes": "",
+    "annual_rate": 0.0,
+    "ins_premium": 50000.0,
+    "ins_total_periods": 10,
+    "ins_paid_periods": 3,
+    "ins_start_year": 5,
+    "ins_rate": 0.03,
+    "ins_annual_payout": 0.0,
+    "ins_start_date": "2023-06-15",
+    "ins_birth_date": "1990-03-20",
+    "ins_end_date": "",
+    "sub_accounts": [],
+    "ins_payout_schedule": [],
+    "exclude_from_total": false
+  },
+  {
+    "id": "cpic_insurance",
+    "name": "太平洋金佑人生年金保险5年交保至80周岁",
+    "category": "insurance",
+    "institution": "",
+    "balances": [],
+    "notes": "",
+    "sub_accounts": [],
+    "annual_rate": 0.0,
+    "ins_premium": 20000.0,
+    "ins_total_periods": 5,
+    "ins_paid_periods": 2,
+    "ins_start_year": 8,
+    "ins_rate": 0.028,
+    "ins_annual_payout": 0.0,
+    "ins_start_date": "2024-09-01",
+    "ins_birth_date": "1990-03-20",
+    "ins_end_date": "2070-03-20",
+    "ins_payout_schedule": [],
+    "exclude_from_total": false
+  },
+  {
+    "id": "lic_edu_insurance",
+    "name": "国寿鑫如意教育年金保险5年交保至25周岁",
+    "category": "insurance",
+    "institution": "",
+    "balances": [],
+    "notes": "",
+    "annual_rate": 0.0,
+    "ins_premium": 15000.0,
+    "ins_total_periods": 5,
+    "ins_paid_periods": 1,
+    "ins_start_year": 18,
+    "ins_rate": 0.0,
+    "ins_annual_payout": 0.0,
+    "ins_payout_schedule": [
+      {
+        "label": "大学",
+        "annual_amount": 8000.0,
+        "years": 4
+      },
+      {
+        "label": "深造",
+        "annual_amount": 12000.0,
+        "years": 3
+      },
+      {
+        "label": "创业金",
+        "annual_amount": 20000.0,
+        "years": 1
+      }
+    ],
+    "ins_start_date": "2025-05-10",
+    "ins_birth_date": "2023-11-05",
+    "ins_end_date": "2048-11-05",
+    "sub_accounts": [],
+    "exclude_from_total": false
+  },
+  {
+    "id": "housing_fund",
+    "name": "公积金",
+    "category": "future_cash",
+    "institution": "",
+    "balances": [],
+    "notes": "每月取3000（北京）+5000（上海）",
+    "sub_accounts": [
+      {
+        "label": "北京",
+        "amount": 42000.0
+      },
+      {
+        "label": "上海",
+        "amount": 285000.0
+      }
+    ],
+    "annual_rate": 0
+  },
+  {
+    "id": "medical_insurance",
+    "name": "医保",
+    "category": "future_cash",
+    "institution": "",
+    "balances": [],
+    "notes": "",
+    "sub_accounts": [
+      {
+        "label": "北京",
+        "amount": 12500.0
+      },
+      {
+        "label": "上海",
+        "amount": 9800.0
+      }
+    ],
+    "annual_rate": 0,
+    "exclude_from_total": true
+  },
+  {
+    "id": "acct_1776079103269_rnsvaf",
+    "name": "特斯拉",
+    "category": "investment",
+    "institution": "",
+    "balances": [
+      {
+        "currency": "CNY",
+        "amount": 0.0,
+        "annual_rate": 0.0
+      }
+    ],
+    "notes": "",
+    "sub_accounts": [],
+    "annual_rate": 0.0,
+    "exclude_from_total": false,
+    "ins_premium": 0.0,
+    "ins_total_periods": 0,
+    "ins_paid_periods": 0,
+    "ins_start_year": 0,
+    "ins_rate": 0.0,
+    "ins_annual_payout": 0.0,
+    "ins_payout_schedule": [],
+    "ins_start_date": "",
+    "ins_birth_date": "",
+    "ins_end_date": "",
+    "sort_order": 0
+  }
+]

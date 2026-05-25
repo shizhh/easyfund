@@ -1,5 +1,5 @@
 # Python-generated files
-__pycache__/
+**/__pycache__/
 *.py[oc]
 build/
 dist/
@@ -17,16 +17,19 @@ wheels/
 # User data (financial records, credentials, databases)
 data/*
 !data/mock/
+docs/*
 
 # Environment
 .env
 output/
 
 # Frontend
-node_modules
+**/node_modules
 dist
 dist-ssr
 *.local
+**/package-lock.json
+**/package.json
 
 # Logs
 logs
@@ -38,7 +41,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Editor directories and files
-.vscode/*
+**/.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store

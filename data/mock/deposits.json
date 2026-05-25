@@ -1,0 +1,29 @@
+[
+  {
+    "id": "deposit_2025",
+    "account_id": "icbc",
+    "amount": 380000.0,
+    "rate": 0.012,
+    "start_date": "",
+    "maturity_date": "",
+    "interest": 4560.0
+  },
+  {
+    "id": "dep_mock_001",
+    "account_id": "abc",
+    "amount": 256000.0,
+    "rate": 0.014,
+    "start_date": "",
+    "maturity_date": "",
+    "interest": 3584.0
+  },
+  {
+    "id": "dep_mock_002",
+    "account_id": "ccb",
+    "amount": 98000.0,
+    "rate": 0.014,
+    "start_date": "",
+    "maturity_date": "",
+    "interest": 1372.0
+  }
+]

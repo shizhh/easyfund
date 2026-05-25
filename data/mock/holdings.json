@@ -1,0 +1,28 @@
+[
+  {
+    "id": "hld_aapl",
+    "account_id": "aapl_stock",
+    "ticker": "AAPL",
+    "name": "苹果",
+    "shares": 5000,
+    "avg_cost_price": 145.0,
+    "current_price": 266.42999267578125,
+    "currency": "USD",
+    "vested_shares": 0,
+    "unvested_shares": 0,
+    "vesting_schedule": []
+  },
+  {
+    "id": "h_1776079080110_tou09o",
+    "account_id": "acct_1776079103269_rnsvaf",
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "shares": 5000,
+    "avg_cost_price": 350.0,
+    "current_price": 391.95001220703125,
+    "currency": "USD",
+    "vested_shares": 0,
+    "unvested_shares": 0,
+    "vesting_schedule": []
+  }
+]
